@@ -1,20 +1,19 @@
-digital-forensics-lab-exercises/
+🔐 digital-forensics-lab-exercises/
 │
-├── README.md
+├── 📄 README.md
 │
-├── Exercise-1-FTK-Imager/
-│   ├── README.md
-│   └── screenshots/
+├── 🖥️ Exercise-1-FTK-Imager/
+│   ├── 📄 README.md
+│   └── 📸 screenshots/
 │
-├── Exercise-2-TestDisk/
-│   ├── README.md
-│   └── screenshots/
+├── 💾 Exercise-2-TestDisk/
+│   ├── 📄 README.md
+│   └── 📸 screenshots/
 │
-├── Exercise-3-Wireshark/
-│   ├── README.md
-│   └── screenshots/
+├── 🌐 Exercise-3-Wireshark/
+│   ├── 📄 README.md
+│   └── 📸 screenshots/
 │
-└── Exercise-4-Autopsy/
-    ├── README.md
-    └── screenshots/
-
+└── 🕵️ Exercise-4-Autopsy/
+    ├── 📄 README.md
+    └── 📸 screenshots/
