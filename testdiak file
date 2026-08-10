@@ -1,0 +1,28 @@
+# Exercise 2 – File Recovery Using TestDisk
+
+## Objective
+To recover deleted or damaged files and analyze partitions
+using TestDisk.
+
+## Tool Used
+- TestDisk
+
+## Description
+TestDisk is a data recovery utility that can recover lost
+partitions and help recover files from damaged or deleted
+file systems.
+
+## Procedure
+1. Launch TestDisk.
+2. Create a log file.
+3. Select the target storage device.
+4. Select the appropriate partition table type.
+5. Choose Analyse.
+6. Perform a partition search.
+7. Examine the detected partitions/files.
+8. Recover the required files to a separate destination.
+
+## Result
+Deleted/missing files or partitions were successfully identified
+and recovered using TestDisk.
+
