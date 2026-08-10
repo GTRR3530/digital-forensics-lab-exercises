@@ -1,0 +1,36 @@
+# Exercise 3 – Network Traffic Analysis Using Wireshark
+
+## Objective
+To capture and analyze network packets using Wireshark
+and understand how application-layer information can be
+exposed through unencrypted network traffic.
+
+## Tool Used
+- Wireshark
+
+## Description
+Wireshark is a network protocol analyzer used to capture,
+inspect and analyze network traffic.
+
+This experiment was performed in a controlled lab environment
+for educational purposes.
+
+## Procedure
+1. Open Wireshark.
+2. Select the appropriate network interface.
+3. Start packet capture.
+4. Generate network traffic in the controlled lab.
+5. Stop the capture.
+6. Apply suitable display filters.
+7. Inspect packet headers and protocol information.
+8. Analyze the captured traffic.
+
+## Result
+Network packets were successfully captured and analyzed using
+Wireshark.
+
+## Security Observation
+Unencrypted protocols can expose sensitive information during
+transmission. Encrypted protocols such as HTTPS should be used
+to protect credentials and sensitive data.
+
