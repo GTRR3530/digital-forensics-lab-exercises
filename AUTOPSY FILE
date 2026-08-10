@@ -1,0 +1,31 @@
+# Exercise 4 – Digital Forensic Investigation Using Autopsy
+
+## Objective
+To analyze a forensic disk image and identify digital evidence using Autopsy.
+
+## Tool Used
+- Autopsy
+
+## Description
+Autopsy is a digital forensics tool used to examine disk images,
+files, deleted data, web activity, and other digital artifacts.
+
+## Procedure
+1. Open Autopsy and create a new case.
+2. Add the forensic disk image as a data source.
+3. Select the required ingest modules.
+4. Process and analyze the evidence.
+5. Examine files and available forensic artifacts.
+6. Record the relevant findings.
+
+## Result
+The forensic image was successfully analyzed using Autopsy,
+and relevant digital artifacts were identified.
+
+## Conclusion
+Autopsy provides an effective platform for analyzing digital
+evidence during forensic investigations.
+
+## Screenshots
+Screenshots of the case creation, evidence analysis, and findings
+are included in the `screenshots` folder.
