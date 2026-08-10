@@ -5,23 +5,16 @@ digital-forensics-lab-exercises/
 ├── Exercise-1-FTK-Imager/
 │   ├── README.md
 │   └── screenshots/
-│       ├── 01-ftk-imager-interface.png
-│       ├── 02-memory-capture.png
-│       └── 03-memory-image-created.png
 │
 ├── Exercise-2-TestDisk/
 │   ├── README.md
 │   └── screenshots/
-│       ├── 01-testdisk-log.png
-│       ├── 02-disk-selection.png
-│       ├── 03-partition-analysis.png
-│       └── 04-file-recovery.png
 │
-└── Exercise-3-Wireshark/
+├── Exercise-3-Wireshark/
+│   ├── README.md
+│   └── screenshots/
+│
+└── Exercise-4-Autopsy/
     ├── README.md
     └── screenshots/
-        ├── 01-wireshark-capture.png
-        ├── 02-packet-analysis.png
-        ├── 03-http-analysis.png
-        └── 04-filtered-traffic.png
 
